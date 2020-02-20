@@ -1,4 +1,4 @@
-# Predição de açoes 
+# Predição de ações 
 Descrição: este programa usa uma rede neural recorrente chamada Long Short Term Memory (LSTM) # para prever o preço de fechamento das ações de uma emprsa ( ou Qualquer ação sa.) usando o preço das ações dos últimos 60 dias.
 # Recomendações: 
 Execultar os blocos separados do codigo no jupyter lab ou notebook para facilitar o entendimento.
