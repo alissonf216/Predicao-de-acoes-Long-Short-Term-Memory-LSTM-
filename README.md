@@ -4,5 +4,5 @@ Descrição: este programa usa uma rede neural recorrente chamada Long Short Ter
 Esse codigo mesmo sendo funcional e com otimos resultados deve ser tratado como apenas ditadico, bucando melhorias.
 
 # Resultado
-![resultado](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
+![resultado](https://github.com/alissonf216/predicao-de-acoes/blob/master/Sem%20t%C3%ADtulo.png)
 
